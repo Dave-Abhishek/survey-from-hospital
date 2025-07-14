@@ -3,7 +3,7 @@ import AyuNovaDoshaForm from './AyuNovaDoshaForm'
 
 const App = () => {
   return (
-    <div>
+    <div className='bg-blue-50'>
       <AyuNovaDoshaForm />
     </div>
   )
